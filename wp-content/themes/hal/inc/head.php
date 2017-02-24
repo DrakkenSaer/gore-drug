@@ -1,7 +1,7 @@
 <header id="top" class="clearfix">
 
   <div class="col-sm-3 col-md-2 col-md-offset-1">
-    <a href="#" id="top-domain">Online Refill</a>
+    <a href="https://3710995.winrxrefill.com/" id="top-domain">Online Refill</a>
   </div>
   
   <div class="col-sm-6 col-md-6 text-center">
@@ -26,7 +26,6 @@
       <li><a href="#intro">Home</a></li>
       <li><a href="#intro-services">Services</a></li>
       <li><a href="#faq">FAQs</a></li>
-      <li><a href="#about">About</a></li>
       <li><a href="#locations">Contact</a></li>
       </ul>
     </nav>
