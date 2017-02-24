@@ -1,11 +1,11 @@
 <header id="top" class="clearfix">
 
   <div class="col-sm-3 col-md-2 col-md-offset-1">
-    <a href="/" id="top-domain" title="Haller's Pharmacy Advanced Prescription management for Physicians"><?php the_field('domain', 'option'); ?></a>
+    <a href="#" id="top-domain">Online Refill</a>
   </div>
   
   <div class="col-sm-6 col-md-6 text-center">
-    <a href="/" class="top-logo" title="Haller's Pharmacy Advanced Prescription management for Physicians"></a>
+    <a href="/" class="top-logo"></a>
   </div>
 
   <div class="col-sm-3 col-md-2 col-md-offset-1">
@@ -18,7 +18,7 @@
     </div>
 
     <div id="top-nav-logo" class="visible-xs">
-      <a href="/" class="top-logo" title="Haller's Pharmacy Advanced Prescription management for Physicians"></a>
+      <a href="/" class="top-logo"></a>
     </div>
 
     <nav id="top-nav-menu">

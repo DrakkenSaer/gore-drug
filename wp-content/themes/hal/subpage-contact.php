@@ -1,6 +1,7 @@
 <?php //Template Name: Contact ?>
 <div id="locations" class="cards clearfix">
 
+  <?php if( get_field('websites', 'option') ): ?>
   <div class="card-nav">
     <nav class="emblem brown">
       <ul class="nav nav-pills">
@@ -10,6 +11,7 @@
       </ul>
     </nav>
   </div>
+  <?php endif; ?>
 
   <div class="col-lg-10 col-lg-offset-1 card-holder clearfix">
 

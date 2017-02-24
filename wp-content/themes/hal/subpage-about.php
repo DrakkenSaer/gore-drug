@@ -41,7 +41,7 @@
   </div>
 
   <div class="col-sm-6 col-sm-offset-3 clearfix about-online">
-    <h1 class="text-center">Visit our retail online sites.</h1>
+
   </div>
   
 </div>
